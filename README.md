@@ -5,4 +5,4 @@
 - LinkedIn: https://www.linkedin.com/in/engin-gedik-479835205/
 - Skill Level:
   - Python3: moderately acquainted
-  - SQLite: Confident with basic insert, update, delete, create (+ integration with Python3)
+  - SQLite: Confident with basic features: insert, update, delete, create (+ integration with Python3)
